@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\Bakodah duty\bin\Debug\Bakodah duty.exe.config
+C:\Users\user\Desktop\Bakodah duty\bin\Debug\Bakodah duty.exe
+C:\Users\user\Desktop\Bakodah duty\bin\Debug\Bakodah duty.pdb
+C:\Users\user\Desktop\Bakodah duty\obj\Debug\Bakodah duty.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Bakodah duty\obj\Debug\Bakodah duty.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Bakodah duty\obj\Debug\Bakodah duty.exe
+C:\Users\user\Desktop\Bakodah duty\obj\Debug\Bakodah duty.pdb
